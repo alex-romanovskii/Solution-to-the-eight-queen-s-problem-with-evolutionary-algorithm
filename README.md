@@ -6,7 +6,7 @@ The eight queen’s problem is the problem of placing eight chess queens on an 8
 Goal:  
 Solve the eight queen’s problem with genetic algorithm.
 
-Tools:  
+Tools:
 1) Programming language – Python.
 2) Evolutionary computation framework – DEAP.
 
